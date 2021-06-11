@@ -1,1 +1,1 @@
-This is file A 
+This is the updated content in 'A' file 
